@@ -150,3 +150,6 @@ The developed application successfully predicts diseases based on symptoms enter
 - Dynamic PHP Backend
 - Healthcare Decision Support System
 - User-Friendly Navigation
+
+
+## Note: This project is built using PHP and MySQL and cannot be hosted on GitHub Pages because GitHub Pages does not support server-side languages such as PHP.
